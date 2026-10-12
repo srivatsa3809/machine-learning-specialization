@@ -17,7 +17,7 @@ Right now, I am utilizing Google Colab for rapid prototyping and training. The n
 
 *   **Language:** Python 🐍
 *   **Environment:** Google Colaboratory / Jupyter Notebooks
-*   **Libraries:** NumPy, Pandas, Scikit-Learn, TensorFlow / PyTorch (adjust these as you go!)
+*   **Libraries:** NumPy, Pandas, Scikit-Learn, TensorFlow / PyTorch
 
 ---
 
